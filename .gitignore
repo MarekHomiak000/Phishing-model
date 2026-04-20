@@ -1,3 +1,5 @@
 venv/
 results_bert
 *.vscode
+saved_models
+results
